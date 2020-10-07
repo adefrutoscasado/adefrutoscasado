@@ -1,3 +1,3 @@
- 👨‍💻 Full-Stack Developer
- 🏗 AWS Certified Architect Solutions - Associate
- 🛰 Telecommunications Engineer
+* 👨‍💻 Full-Stack Developer
+* 🏗 AWS Certified Architect Solutions - Associate
+* 🛰 Telecommunications Engineer
